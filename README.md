@@ -1,7 +1,7 @@
 # Run following comands:-
 - javac test.java
 - java test
-input: 
+- input: 
 4
 4
 300 400 600 700
